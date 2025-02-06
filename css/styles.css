@@ -26,6 +26,10 @@ a{
     color: #2e2f42;
 }
 
+.footer-logo .logo-part{
+    color: #f4f4fd;;
+}
+
 .nav-link{
     font-weight: 500;
     font-size: 16px;
@@ -49,4 +53,34 @@ a{
 .contacts-link:hover,
 .contacts-link:hover{
     color: #404bbf;
+}
+
+.hero{
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #fff;
+    background-color: #2e2f42;
+    }
+
+    .hero-button:{
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        background-color: #4d5ae5;
+    }
+
+button{
+    cursor: pointer;
+}         
+
+.hero-button.nav-link:hover,
+.hero-button:focus{
+    background-color: #404bbf;
+}
+
+.page-footer{
+    background-color: #2e2f42;
 }
