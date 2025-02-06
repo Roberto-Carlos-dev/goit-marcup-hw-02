@@ -125,6 +125,11 @@ a{
     text-transform: capitalize;
 }
 
+.our-team-list-item{
+    background-color: #FFFFFF;
+}
+     
+
 .names-team{
     font-weight: 500;
     font-size: 20px;
@@ -153,11 +158,6 @@ a{
     text-align: center;
     color: #2e2f42;
 }
-
-.portfolio-list-item{
-    background-color: #FFFFFF; 
-}
-
 
 .portfolio-servis {
     font-weight: 500;
