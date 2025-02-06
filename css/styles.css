@@ -1,3 +1,5 @@
+/* #region header */
+
 body{
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -55,32 +57,146 @@ a{
     color: #404bbf;
 }
 
+/* #endregion header */
+
+/* #region hero */
+
 .hero{
+     background-color: #2e2f42;
+    }
+
+.hero-title{
+    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
-    background-color: #2e2f42;
-    }
+}
 
-    .hero-button:{
+.hero-button:{
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
+        color: #fff;
         background-color: #4d5ae5;
+        cursor: pointer;
     }
-
-button{
-    cursor: pointer;
-}         
-
-.hero-button.nav-link:hover,
+      
+.hero-button:hover,
 .hero-button:focus{
+    color: #4d5ae5;
     background-color: #404bbf;
 }
+
+/* #endregion hero */
+
+/* #region benefits */
+
+.benefits-item-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.benefits {
+}
+.benefits-title {
+}
+.benefits-list {
+}
+.benefits-list-item {
+}
+.benefits-item-title {
+}
+.benefits-item-text {
+}
+
+.benefits-item-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* #endregion benefits */
+
+/* #region our team */
+
+.our-team-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.names-team{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.our-team-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+/* #endregion our team */
+
+/* #region Our portfolio  */
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-servis {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.servis-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* #endregion Our portfolio */
+
+/* #region footer */
 
 .page-footer{
     background-color: #2e2f42;
 }
+
+.footer-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.logo-span{
+        color: #f4f4fd;
+}
+/* #endregion footer 
