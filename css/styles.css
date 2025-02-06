@@ -63,7 +63,7 @@ a{
 /* #region hero */
 
 .hero{
-     background-color:  #F4F4FD;
+     background-color:  #2e2f42;
     }
 
 .hero-title{
@@ -111,6 +111,13 @@ a{
 /* #endregion benefits */
 
 /* #region our team */
+.our-team{
+    background-color: #F4F4FD;
+}
+
+.our-team-list{
+    background-color: #FFFFFF;
+}
 
 .our-team-title{
     font-weight: 700;
