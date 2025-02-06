@@ -1,3 +1,4 @@
+
 /* #region header */
 
 body{
@@ -74,7 +75,7 @@ a{
     color: #fff;
 }
 
-.hero-button:{
+.hero-button{
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -101,19 +102,6 @@ a{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
-
-.benefits {
-}
-.benefits-title {
-}
-.benefits-list {
-}
-.benefits-list-item {
-}
-.benefits-item-title {
-}
-.benefits-item-text {
 }
 
 .benefits-item-text{
@@ -164,10 +152,7 @@ a{
     text-align: center;
     color: #2e2f42;
 }
-.portfolio-list {
-}
-.portfolio-list-item {
-}
+
 .portfolio-servis {
     font-weight: 500;
     font-size: 20px;
@@ -196,6 +181,7 @@ a{
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+
 .logo-span{
         color: #f4f4fd;
 }
